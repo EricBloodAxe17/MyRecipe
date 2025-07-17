@@ -38,9 +38,7 @@ Edit
 2. Click on the recipe links to view each dish.
 3. Use the "Home" link on each recipe page to return to the main list.
 
-## 📸 Screenshots
 
-*(You can add screenshots here later if desired)*
 
 ## ✅ To Do
 
